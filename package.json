@@ -1,0 +1,23 @@
+{
+  "name": "botkit-test",
+  "version": "1.0.0",
+  "description": "Test code of Botkit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepblue-will/botkit-test.git"
+  },
+  "author": "deepblue_will",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepblue-will/botkit-test/issues"
+  },
+  "homepage": "https://github.com/deepblue-will/botkit-test#readme",
+  "dependencies": {
+    "botkit": "0.0.5"
+  }
+}
